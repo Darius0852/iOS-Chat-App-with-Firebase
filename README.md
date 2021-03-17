@@ -1,11 +1,22 @@
 # iOS-Chat-App-with-Firebase
-This is a simple native chat app for iOS. It uses firebase to quickly get the backend working. It is ideal template for a small chat app.
+This is a simple native chat app for iOS, ideal template for a small traffic chat app. It utilizes the Model View Controller (MVC) design pattern and uses Google's Firebase Service to quickly get the backend setup.
 
-# Insrtructions:
+# CocoaPods:
+This App uses the following cocoa pods:
+- Firebase
+- Firebase/Auth
+- Firebase/Database
+- SVProgressHUD
+- ChameleonFramework
 
-To use this app you will simple need to set up a firebase account with a ios project and link it to your xcode project.
+# Set Up:
+To use this app you will need to set up a firebase account with a ios project and link it to your xcode project using a GoogleService-Info.plist which is made automatically for you by google.
 
-First:
+you can check out how to do this here:
+https://firebase.google.com/docs/ios/setup
+
+Once that is done, you plug your info.plist into the appropriate section of the app file system as shown below:
+
 
 # Video Example (Youtube) Below:
 
