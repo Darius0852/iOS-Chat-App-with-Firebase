@@ -7,6 +7,6 @@ To use this app you will simple need to set up a firebase account with a ios pro
 
 First:
 
-#Video Example (Youtube) Below:
+# Video Example (Youtube) Below:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5DTDES-aq0k/0.jpg)](https://youtu.be/5DTDES-aq0k)
