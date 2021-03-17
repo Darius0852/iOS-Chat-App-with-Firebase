@@ -18,6 +18,7 @@ you can check out how to do this here:
 https://firebase.google.com/docs/ios/setup
 
 Once that is done, you plug your info.plist into the appropriate section of the app file system as shown below:
+<img src="https://github.com/Darius0852/iOS-Chat-App-with-Firebase/blob/main/imagesfiles.png">
 
 
 # Video Example (Youtube) Below:
