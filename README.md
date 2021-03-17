@@ -1,9 +1,9 @@
 # iOS-Chat-App-with-Firebase
 This is a simple native chat app for iOS, ideal template for a small traffic chat app. It utilizes the Model View Controller (MVC) design pattern and uses Google's Firebase Service to quickly get the backend setup.
 
-![](https://github.com/Darius0852/iOS-Chat-App-with-Firebase/blob/main/images/welcome)
-![](https://github.com/Darius0852/iOS-Chat-App-with-Firebase/blob/main/images/register)
-![](https://github.com/Darius0852/iOS-Chat-App-with-Firebase/blob/main/images/chat)
+![img](https://github.com/Darius0852/iOS-Chat-App-with-Firebase/blob/main/images/welcome)
+![img2](https://github.com/Darius0852/iOS-Chat-App-with-Firebase/blob/main/images/register)
+![img3](https://github.com/Darius0852/iOS-Chat-App-with-Firebase/blob/main/images/chat)
 
 # CocoaPods:
 This App uses the following cocoa pods:
